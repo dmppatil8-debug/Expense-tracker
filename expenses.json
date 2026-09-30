@@ -1,0 +1,26 @@
+{
+    "expenses": [
+        {
+            "id": 1,
+            "amount": 500,
+            "category": "Food",
+            "date": "2026-10-01",
+            "note": "Lunch"
+        },
+        {
+            "id": 2,
+            "amount": 300,
+            "category": "Travel",
+            "date": "2026-10-02",
+            "note": "Bus"
+        },
+        {
+            "id": 3,
+            "amount": 10000.0,
+            "category": "Food",
+            "date": "2026-10-01",
+            "note": "Enjoy"
+        }
+    ],
+    "budgets": {}
+}
